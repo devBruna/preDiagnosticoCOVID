@@ -3,9 +3,13 @@
 SISTEMA DE PRÉ-DIAGNÓSTICO DE COVID
 
 Desenvolvedores:
+
 Bruna de Jesus Ribeiro Cursino
+
 Gabriel Xavier de Lima
+
 Mateus de Sá Nass
+
 Rafael Alves Mendonça
 
 DO PROJETO 
